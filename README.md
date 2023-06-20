@@ -8,6 +8,8 @@
 
 有问题请联系opljjjyui@outlook.com
 
+不会用Github的童鞋可以把证据发给我，我会帮你们放到这里
+
 最新科学上网地址:https://winver-dev.gitbook.io/tac/
 
 目前已发现小鬼名单：
