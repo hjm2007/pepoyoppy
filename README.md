@@ -12,7 +12,7 @@
 
 目前已发现小鬼名单：
 
-1.Bilibili:迷你世界周乘睿
+1.Bilibili:凉下采桑-反mc
 
 2.Bilibili:神奇的董彦磊
 
