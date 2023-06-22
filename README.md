@@ -2,7 +2,7 @@
 
 这个仓库专门放在某音，某手和B站的PPY小鬼造谣诋毁PPY的证据，欢迎举报🙂🙂🙂
 
-视频放video,图片放image,文档放docx,其它证据放other
+视频放video,图片放image,文档放docx,其它证据放other(需自己创建文件夹)
 
 格式为:文件名+作者名称
 
