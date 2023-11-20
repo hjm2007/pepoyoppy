@@ -1,7 +1,6 @@
 # PPY小鬼党造谣证据收集
 # 零.公告
 2023-11-20:已经检测到补档行为，预计删除所有视频，需要视频请联系opljjjyui@gmail.com
-2023-11-20:更新小鬼名单格式：*.accdb
 我不在墙外，我还活着！！！
 #  一.作用
 这个仓库专门放在某音，某手和B站的PPY小鬼造谣诋毁PPY的证据，欢迎举报🙂🙂🙂
@@ -24,13 +23,23 @@
 
 8.Bilibili:Msc冯敬喧
 
+9.Bilibili:MSC-张杰炜
+
+10.Bilibili:AJ冯八狗
+
 ......
 
-更多小鬼举报联系opljjjyui@outlook.com
+# 三.如何举报：
 
-蛋仔小鬼恶魔是B站毒瘤，我们坚决站在它们的对立面。
+如遇到b站的ppy相关钓鱼内容可以向wuhu年糕的b站私信、邮箱wuhuniangao@163.com。也可联系我的QQ2438548447或是b站术力口bot的邮箱vocaloid.miraimade@gmail.com
 
-# 三.PPY为小鬼送上的一首诗：
+如果不会写邮件，标题可写：PEPOYO関連連絡。内容简单描述事情概要并附上链接
+
+以上方式任选一项均可
+
+[wuhu年糕](https://space.bilibili.com/482066789 "wuhu年糕")
+
+# 四.PPY为小鬼送上的一首诗：
 
 死了吧——臭小子
 
